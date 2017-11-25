@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # A Blank PhoneGap App
 
@@ -17,3 +18,7 @@ In your browser, open the file:
 # appwebservice
 AppWebService
 
+=======
+# wsapp
+web service APP
+>>>>>>> origin/master
